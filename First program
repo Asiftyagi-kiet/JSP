@@ -1,0 +1,39 @@
+* install Eclipse oxygen
+* Install Apache Tomcat Server
+* open Eclipse IDE create project 
+* create project name -> finsih -> go to src -> main -> webapp -> click right click new
+* Click new dynamic project -> jsp file -> more file crete
+
+* ok
+* working file
+
+<!------------------------->
+* Tomcat server install with Eclipe connect the path Tomcat
+* Server start
+* then file run with play button
+
+<!------------------------->
+      BEST OF LUCK
+<!------------------------->
+
+
+# Decleration   ->  <%!   code here ; %>
+# Expression    ->  <%= var name   x  %>
+# Scriplets     ->  <% code here; %>
+
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>First Page</title>
+</head>
+<body>
+<h1>KIET GROUP OF INSTITUTIONS </h1>
+
+<%! String v="Asif Tyagi 2000290140033 2023mca1015"; %>
+<%= v %>
+
+</body>
+</html>
